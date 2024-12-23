@@ -91,3 +91,18 @@ chmod +x install.sh
 ./install.sh
 python3 fvillager.py
 ```
+### Docker
+
+```bash
+docker pull SajidIbnNayeem/fvillager
+```
+# Access Local Services anywhere using Cloudflared (link generate for public)
+<li> You must first install cloudflared</li>
+  You have to install Cloudflared from their official website
+<li> Access local services anywhere using cloudflared</li>
+  
+  <li> Open a new terminal(new window) and type</li>
+  
+  ```
+  cloudflared --url localhost:8080
+  ```
