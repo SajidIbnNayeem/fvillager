@@ -15,7 +15,9 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
 </p>
 
-Concept behind fvillager is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. fvillager Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Concept behind fvillager is simple,
+just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites.
+fvillager Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
