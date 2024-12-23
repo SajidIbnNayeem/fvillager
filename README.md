@@ -116,7 +116,7 @@ The link will be like this:- https://----------------------------------.trycloud
 ![fvillager](https://github.com/user-attachments/assets/cb1cc98d-3cdb-47c0-bd6a-130ed7657c64)
 
 ## Screenshot
-![screenshot](1)](https://github.com/user-attachments/assets/44ab1b5d-a90e-4ecf-919e-6d3360ebd8d6)
+![screenshot(1)](https://github.com/user-attachments/assets/44ab1b5d-a90e-4ecf-919e-6d3360ebd8d6)
 
 
 ### Connect with me:
