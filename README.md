@@ -80,3 +80,14 @@ Available Templates :
 * Termux
 * Parrot OS
 
+## Installation
+
+### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
+
+```bash
+git clone https://github.com/SajidIbnNayeem/fvillager.git
+cd fvillager/
+chmod +x install.sh
+./install.sh
+python3 fvillager.py
+```
