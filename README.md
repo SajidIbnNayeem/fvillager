@@ -91,6 +91,10 @@ chmod +x install.sh
 ./install.sh
 python3 fvillager.py
 ```
+# Screenshot
+![Screenshot From 2024-12-23 19-04-16](https://github.com/user-attachments/assets/c9f55c40-0805-4393-84de-c311107a8ffc)
+
+
 ### Docker
 
 ```bash
@@ -102,7 +106,26 @@ docker pull SajidIbnNayeem/fvillager
 <li> Access local services anywhere using cloudflared</li>
   
   <li> Open a new terminal(new window) and type</li>
-  
-  ```
+
+```
   cloudflared --url localhost:8080
   ```
+![Screenshot From 2024-12-23 19-06-22](https://github.com/user-attachments/assets/ba3efb4f-941b-460f-b3c0-fb7618beb905)
+The link will be like this:- ```https://----------------------------------.trycloudflare.com```
+
+
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/SajidIbnNayeem">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  
+   <a href="https://www.instagram.com/sajid_ibn_nayeem?igsh=MXdnNmttb292MnFuaQ==">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   
+   <a href="https://twitter.com/Sajid_nayeem_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
