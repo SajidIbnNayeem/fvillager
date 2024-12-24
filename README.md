@@ -137,6 +137,7 @@ chmod +x install.sh
 ```
 python3 fvillager.py
 ```
+![fvillager (1)](https://github.com/user-attachments/assets/417b3adc-d496-42ff-b880-03d8b3f1da8a)
 
 # Access Local Services anywhere using Cloudflared (link generate for public)
 <li> You must first install Cloudflared-termux</li>
@@ -149,6 +150,8 @@ python3 fvillager.py
   ```
   cloudflared --url localhost:8080
   ```
+![fvillager](https://github.com/user-attachments/assets/e76fe445-e2c5-43d4-8129-3c70cb7d55e0)
+
 
 ### Connect with me:
 <div id="badges">
